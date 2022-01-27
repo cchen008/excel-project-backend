@@ -17,7 +17,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.capgemini.group2.exceldemo.models.Profile;
 import com.capgemini.group2.exceldemo.repositories.ProfileRepository;
 
-@CrossOrigin(origins = "https://excel-project-frontend.herokuapp.com/")
+@CrossOrigin(origins = {"https://excel-project-frontend.herokuapp.com/", "http://localhost:3000/"})
 @RestController
 @RequestMapping("api/v1/profiles")
 public class ProfileController {
