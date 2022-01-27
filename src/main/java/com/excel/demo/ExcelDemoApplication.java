@@ -1,4 +1,4 @@
-package com.capgemini.group2.exceldemo;
+package com.excel.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

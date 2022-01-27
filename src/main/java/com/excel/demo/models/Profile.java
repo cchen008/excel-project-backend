@@ -1,4 +1,4 @@
-package com.capgemini.group2.exceldemo.models;
+package com.excel.demo.models;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
